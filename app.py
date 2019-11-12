@@ -3,3 +3,5 @@ app = Flask("MetServer")
 @app.route('/')
 def default_response():
     return 'Hello, World!'
+
+app.run()
