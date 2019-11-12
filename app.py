@@ -1,10 +1,12 @@
 from flask import Flask
-app = Flask("MetServer")
 
-@app.route('/', methods=['GET'])
-def default_response():
-    return 'Hello, World!'
+my_awesome_app = Flask(__name__)
 
 
+@my_awesome_app.route('/')
+def hello_world():
+    return 'Hello World!'
 
-app.run(threaded=True)
+
+if __name__ == '__main__':
+    my_awesome_app.run()
