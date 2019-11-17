@@ -1,8 +1,14 @@
 Click==7.0
 Flask==1.1.1
-Flask-API==1.1
-gunicorn==20.0.0
 itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
+numpy==1.16.5
+pandas==0.24.2
+pyOpenSSL==19.0.0
+python-dateutil==2.8.1
+pytz==2019.3
+six==1.12.0
+tld==0.9.3
+virtualenv==16.7.7
 Werkzeug==0.16.0
