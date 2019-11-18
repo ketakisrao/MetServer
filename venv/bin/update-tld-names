@@ -1,0 +1,8 @@
+#!/Users/ketakisrao/Documents/Fall2019/DataViz/MetServer/venv/bin/python
+
+# We should have absolute imports here
+from tld.commands.update_tld_names import main
+
+
+if __name__ == "__main__":
+    main()
