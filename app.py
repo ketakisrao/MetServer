@@ -26,6 +26,18 @@ def timeline():
 
   return jsonify(data)
 
+# Returns all rows with artist last name
+@my_awesome_app.route('/country-counts')
+def countryCounts():
+
+  data = {"results": []}
+  with open("./data/map/geo_count.csv") as csvFile:
+    reader = csv.DictReader(csvFile)
+    for row in reader:
+      data["results"].append(row)
+
+  return jsonify(data)
+
 # Returns counts of num artworks per distinct date
 # for an artist
 @my_awesome_app.route('/timeline-dates')
