@@ -1,7 +1,8 @@
-from flask import Flask, request, jsonify, abort
+from flask import Flask, request, jsonify, abort, current_app
 import pandas as pd
 import csv
 import json
+import os
 
 my_awesome_app = Flask(__name__)
 
@@ -26,7 +27,7 @@ def timeline():
 
   return jsonify(data)
 
-# Returns all rows with artist last name
+# Returns all country counts
 @my_awesome_app.route('/country-counts')
 def countryCounts():
 
@@ -56,6 +57,13 @@ def timelineDates():
   data = new_df.to_dict()
 
   return jsonify(data)
+
+@my_awesome_app.route('/counts-by-date')
+def countsByDate():
+  SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+  json_url = os.path.join(SITE_ROOT, "data/spiral", "edo-result.json")
+  data = json.load(open(json_url))
+  return data
 
 if __name__ == '__main__':
     my_awesome_app.run()
