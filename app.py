@@ -60,8 +60,14 @@ def timelineDates():
 
 @my_awesome_app.route('/counts-by-date')
 def countsByDate():
+
+  dynasty = request.args.get('dynasty')
+
+  if dynasty is None: 
+    abort(404)
+
   SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
-  json_url = os.path.join(SITE_ROOT, "data/spiral", "edo-result.json")
+  json_url = os.path.join(SITE_ROOT, "data/spiral", dynasty+"-result.json")
   data = json.load(open(json_url))
   return data
 
