@@ -6,6 +6,8 @@ import os
 
 my_awesome_app = Flask(__name__)
 
+class_groups = ["China", "Europe", "Greek", "Islam", "Japan", "Oceania"]
+
 @my_awesome_app.route('/')
 def hello_world():
     return 'Hello hello hello'
@@ -70,6 +72,21 @@ def countsByDate():
   json_url = os.path.join(SITE_ROOT, "data/spiral", dynasty+"-result.json")
   data = json.load(open(json_url))
   return data
+
+@my_awesome_app.route('/classification')
+def classification():
+
+  id = request.args.get('id')
+
+  if id is None: 
+    abort(404)
+
+  id = int(id)
+  SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+  
+  json_url = os.path.join(SITE_ROOT, "data/classification", class_groups[id-1] + ".json")
+  data = json.load(open(json_url))
+  return {"result": data}
 
 if __name__ == '__main__':
     my_awesome_app.run()
