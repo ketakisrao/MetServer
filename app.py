@@ -6,7 +6,7 @@ import os
 
 my_awesome_app = Flask(__name__)
 
-class_groups = ["China", "Europe", "Greek", "Islam", "Japan", "Oceania"]
+class_groups = ["China", "Europe", "Greece", "Islam", "Japan", "Oceania"]
 
 @my_awesome_app.route('/')
 def hello_world():
