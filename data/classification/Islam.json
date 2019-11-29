@@ -1,0 +1,274 @@
+[
+    {
+        "tag": "Accessory",
+        "count": 1
+    },
+    {
+        "tag": "Accessory-Foot and Leg wear",
+        "count": 15
+    },
+    {
+        "tag": "Accessory-Foot and Leg wear-Childrenswear",
+        "count": 2
+    },
+    {
+        "tag": "Accessory-Foot and Leg wear-Menswear",
+        "count": 4
+    },
+    {
+        "tag": "Accessory-Foot and Leg wear-Unisex",
+        "count": 1
+    },
+    {
+        "tag": "Accessory-Foot and Leg wear-Womenswear",
+        "count": 10
+    },
+    {
+        "tag": "Accessory-Headwear",
+        "count": 5
+    },
+    {
+        "tag": "Accessory-Headwear-Menswear",
+        "count": 3
+    },
+    {
+        "tag": "Accessory-Headwear-Womenswear",
+        "count": 5
+    },
+    {
+        "tag": "Accessory-Jewelry",
+        "count": 10
+    },
+    {
+        "tag": "Accessory-Jewelry-Womenswear",
+        "count": 3
+    },
+    {
+        "tag": "Accessory-Neckwear",
+        "count": 4
+    },
+    {
+        "tag": "Accessory-Neckwear-Womenswear",
+        "count": 3
+    },
+    {
+        "tag": "Accessory-Waist",
+        "count": 1
+    },
+    {
+        "tag": "Accessory-Waist-Menswear",
+        "count": 1
+    },
+    {
+        "tag": "Arms and Armor",
+        "count": 25
+    },
+    {
+        "tag": "Ceramics",
+        "count": 3354
+    },
+    {
+        "tag": "Ceramics-Tiles",
+        "count": 313
+    },
+    {
+        "tag": "Ceramics-Tiles|(not assigned)",
+        "count": 1
+    },
+    {
+        "tag": "Codices",
+        "count": 1247
+    },
+    {
+        "tag": "Codices|(not assigned)",
+        "count": 1
+    },
+    {
+        "tag": "Coins",
+        "count": 685
+    },
+    {
+        "tag": "Collages",
+        "count": 4
+    },
+    {
+        "tag": "Drawings",
+        "count": 16
+    },
+    {
+        "tag": "Gaming pieces",
+        "count": 118
+    },
+    {
+        "tag": "Glass",
+        "count": 758
+    },
+    {
+        "tag": "Ivories and Bone",
+        "count": 339
+    },
+    {
+        "tag": "Jewelry",
+        "count": 852
+    },
+    {
+        "tag": "Jewelry|Paintings",
+        "count": 1
+    },
+    {
+        "tag": "Lacquer",
+        "count": 31
+    },
+    {
+        "tag": "Leather",
+        "count": 44
+    },
+    {
+        "tag": "Main dress",
+        "count": 70
+    },
+    {
+        "tag": "Main dress-Childrenswear",
+        "count": 7
+    },
+    {
+        "tag": "Main dress-Childrenswear-Boy's",
+        "count": 2
+    },
+    {
+        "tag": "Main dress-Childrenswear-Girl's",
+        "count": 1
+    },
+    {
+        "tag": "Main dress-Menswear",
+        "count": 96
+    },
+    {
+        "tag": "Main dress-Womenswear",
+        "count": 128
+    },
+    {
+        "tag": "Medals",
+        "count": 1
+    },
+    {
+        "tag": "Metal",
+        "count": 534
+    },
+    {
+        "tag": "Miscellaneous",
+        "count": 7
+    },
+    {
+        "tag": "Night and Dressing Wear",
+        "count": 1
+    },
+    {
+        "tag": "Outerwear",
+        "count": 25
+    },
+    {
+        "tag": "Outerwear-Menswear",
+        "count": 17
+    },
+    {
+        "tag": "Outerwear-Womenswear",
+        "count": 17
+    },
+    {
+        "tag": "Paintings",
+        "count": 37
+    },
+    {
+        "tag": "Paintings-Canvas",
+        "count": 1
+    },
+    {
+        "tag": "Paintings-Fresco",
+        "count": 3
+    },
+    {
+        "tag": "Photographs",
+        "count": 5
+    },
+    {
+        "tag": "Prints",
+        "count": 3
+    },
+    {
+        "tag": "Reproductions",
+        "count": 49
+    },
+    {
+        "tag": "Sculpture",
+        "count": 268
+    },
+    {
+        "tag": "Seals",
+        "count": 64
+    },
+    {
+        "tag": "Stone",
+        "count": 186
+    },
+    {
+        "tag": "Stucco",
+        "count": 1738
+    },
+    {
+        "tag": "Stucco-Sculpture",
+        "count": 2
+    },
+    {
+        "tag": "Textiles",
+        "count": 1773
+    },
+    {
+        "tag": "Textiles-Brocades",
+        "count": 42
+    },
+    {
+        "tag": "Textiles-Costumes",
+        "count": 166
+    },
+    {
+        "tag": "Textiles-Embroidered",
+        "count": 509
+    },
+    {
+        "tag": "Textiles-Laces",
+        "count": 41
+    },
+    {
+        "tag": "Textiles-Painted",
+        "count": 1
+    },
+    {
+        "tag": "Textiles-Painted and/or Printed",
+        "count": 135
+    },
+    {
+        "tag": "Textiles-Rugs",
+        "count": 469
+    },
+    {
+        "tag": "Textiles-Tapestries",
+        "count": 5
+    },
+    {
+        "tag": "Textiles-Velvets",
+        "count": 2
+    },
+    {
+        "tag": "Textiles-Woven",
+        "count": 640
+    },
+    {
+        "tag": "Textiles-Woven-Brocade",
+        "count": 36
+    },
+    {
+        "tag": "Wood",
+        "count": 319
+    }
+]
