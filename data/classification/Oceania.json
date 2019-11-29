@@ -1,666 +1,402 @@
 [
     {
-        "tag": "Accessory-Headwear",
-        "count": 1
-    },
-    {
-        "tag": "Accessory-Headwear-Menswear|Feathers-Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Accessory-Waist",
-        "count": 1
-    },
-    {
-        "tag": "Bark-Containers",
-        "count": 12
-    },
-    {
-        "tag": "Bark-Ornaments",
-        "count": 7
-    },
-    {
-        "tag": "Bark-Paintings",
-        "count": 344
-    },
-    {
-        "tag": "Bark-Sculpture",
-        "count": 17
-    },
-    {
-        "tag": "Barkcloth",
-        "count": 65
-    },
-    {
-        "tag": "Barkcloth|Paintings",
-        "count": 7
-    },
-    {
-        "tag": "Basketry",
-        "count": 2
-    },
-    {
-        "tag": "Basketry-Containers",
-        "count": 70
-    },
-    {
-        "tag": "Basketry-Costumes",
-        "count": 29
-    },
-    {
-        "tag": "Basketry-Implements",
-        "count": 14
-    },
-    {
-        "tag": "Basketry-Musical Instruments",
-        "count": 1
-    },
-    {
-        "tag": "Basketry-Ornaments",
-        "count": 20
-    },
-    {
-        "tag": "Basketry-Ornaments|Jewelry",
-        "count": 19
-    },
-    {
-        "tag": "Basketry-Sculpture",
-        "count": 55
-    },
-    {
-        "tag": "Beads",
-        "count": 1
-    },
-    {
-        "tag": "Beads-Containers",
-        "count": 11
-    },
-    {
-        "tag": "Beads-Containers|Hide-Costumes",
-        "count": 7
-    },
-    {
-        "tag": "Beads-Costumes",
-        "count": 80
-    },
-    {
-        "tag": "Beads-Costumes|Hide-Costumes",
-        "count": 4
-    },
-    {
-        "tag": "Beads-Furniture",
-        "count": 1
-    },
-    {
-        "tag": "Beads-Ornaments",
-        "count": 132
-    },
-    {
-        "tag": "Beads-Ornaments|Hide-Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Beads-Ornaments|Jade",
-        "count": 1
-    },
-    {
-        "tag": "Beads-Ornaments|Jewelry",
-        "count": 2
-    },
-    {
-        "tag": "Beads-Ornaments|Stone-Ornaments|Jewelry",
-        "count": 1
-    },
-    {
-        "tag": "Beads-Sculpture",
-        "count": 4
-    },
-    {
-        "tag": "Beads-Sculpture|Hide-Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Beads|Stone-Implements",
-        "count": 1
-    },
-    {
-        "tag": "Bone/Ivory-Containers",
-        "count": 18
-    },
-    {
-        "tag": "Bone/Ivory-Implements",
-        "count": 114
-    },
-    {
-        "tag": "Bone/Ivory-Musical Instruments",
-        "count": 18
-    },
-    {
-        "tag": "Bone/Ivory-Ornaments",
-        "count": 71
-    },
-    {
-        "tag": "Bone/Ivory-Sculpture",
-        "count": 154
-    },
-    {
-        "tag": "Bone/Ivory-Sculpture|Bone/Ivory-Containers",
-        "count": 1
-    },
-    {
-        "tag": "Ceramics",
-        "count": 1
-    },
-    {
-        "tag": "Ceramics-Containers",
-        "count": 1098
-    },
-    {
-        "tag": "Ceramics-Implements",
-        "count": 229
-    },
-    {
-        "tag": "Ceramics-Musical Instruments",
-        "count": 38
-    },
-    {
-        "tag": "Ceramics-Ornaments",
-        "count": 10
-    },
-    {
-        "tag": "Ceramics-Ornaments|Metalwork-Ornaments",
-        "count": 1
-    },
-    {
-        "tag": "Ceramics-Sculpture",
-        "count": 312
-    },
-    {
-        "tag": "Ceramics-Vessels",
-        "count": 38
-    },
-    {
-        "tag": "Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Drawings|Paper",
-        "count": 20
-    },
-    {
-        "tag": "Feathers-Containers",
-        "count": 3
-    },
-    {
-        "tag": "Feathers-Costumes",
-        "count": 19
-    },
-    {
-        "tag": "Feathers-Costumes|Accessory-Headwear-Menswear",
-        "count": 1
-    },
-    {
-        "tag": "Feathers-Ornaments",
-        "count": 26
-    },
-    {
-        "tag": "Feathers-Sculpture",
-        "count": 2
-    },
-    {
-        "tag": "Glass",
-        "count": 1
-    },
-    {
-        "tag": "Glass-Beads",
-        "count": 1
-    },
-    {
-        "tag": "Glass-Implements",
-        "count": 8
-    },
-    {
-        "tag": "Glass-Ornaments",
-        "count": 48
-    },
-    {
-        "tag": "Glass-Sculpture",
-        "count": 1
-    },
-    {
-        "tag": "Glass-Vessels",
-        "count": 1
-    },
-    {
-        "tag": "Glass|Negatives",
-        "count": 4
-    },
-    {
-        "tag": "Gourd-Containers",
-        "count": 15
-    },
-    {
-        "tag": "Gourd-Implements",
-        "count": 9
-    },
-    {
-        "tag": "Gourd-Ornaments",
-        "count": 1
-    },
-    {
-        "tag": "Gourd-Sculpture",
-        "count": 12
-    },
-    {
-        "tag": "Hide-Containers",
-        "count": 9
-    },
-    {
-        "tag": "Hide-Costumes",
-        "count": 25
-    },
-    {
-        "tag": "Hide-Costumes|Beads-Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Hide-Documents",
-        "count": 4
-    },
-    {
-        "tag": "Hide-Documents|Parchment",
-        "count": 2
-    },
-    {
-        "tag": "Hide-Furnishings",
-        "count": 1
-    },
-    {
-        "tag": "Hide-Implements",
-        "count": 3
-    },
-    {
-        "tag": "Hide-Sculpture",
-        "count": 11
-    },
-    {
-        "tag": "Horn-Ornaments",
-        "count": 1
-    },
-    {
-        "tag": "Jewelry|Basketry-Ornaments",
-        "count": 2
-    },
-    {
-        "tag": "Jewelry|Beads-Ornaments",
-        "count": 2
-    },
-    {
-        "tag": "Main dress",
-        "count": 4
-    },
-    {
-        "tag": "Main dress-Menswear",
-        "count": 1
-    },
-    {
-        "tag": "Main dress-Womenswear",
-        "count": 1
-    },
-    {
-        "tag": "Metal",
-        "count": 2
-    },
-    {
-        "tag": "Metal-Containers",
-        "count": 147
-    },
-    {
-        "tag": "Metal-Implements",
-        "count": 368
-    },
-    {
-        "tag": "Metal-Implements|Hide-Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Metal-Musical Instruments",
-        "count": 50
-    },
-    {
         "tag": "Metal-Ornaments",
         "count": 1892
-    },
-    {
-        "tag": "Metal-Ornaments|Hide-Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Metal-Ornaments|Metalwork-Ornaments",
-        "count": 1
-    },
-    {
-        "tag": "Metal-Ornaments|Shell-Ornaments|Stone-Ornaments",
-        "count": 1
-    },
-    {
-        "tag": "Metal-Sculpture",
-        "count": 211
-    },
-    {
-        "tag": "Metal-Sculpture|Wood-Sculpture",
-        "count": 1
-    },
-    {
-        "tag": "Metalwork-Aluminum",
-        "count": 1
-    },
-    {
-        "tag": "Metalwork-Bronze",
-        "count": 2
-    },
-    {
-        "tag": "Metalwork-Gold",
-        "count": 2
-    },
-    {
-        "tag": "Metalwork-Gold|Jewelry",
-        "count": 1
-    },
-    {
-        "tag": "Metalwork-Gold|Sculpture-Sheet metal",
-        "count": 6
-    },
-    {
-        "tag": "Metalwork-Implements|Metalwork-Gold",
-        "count": 1
-    },
-    {
-        "tag": "Metalwork-Ornaments",
-        "count": 3
-    },
-    {
-        "tag": "Metalwork-Sculpture",
-        "count": 1
-    },
-    {
-        "tag": "Miscellaneous",
-        "count": 2
-    },
-    {
-        "tag": "Negatives",
-        "count": 7
-    },
-    {
-        "tag": "Negatives|Glass",
-        "count": 21
-    },
-    {
-        "tag": "Paintings-Canvas",
-        "count": 1
-    },
-    {
-        "tag": "Paintings-Frescoes",
-        "count": 1
-    },
-    {
-        "tag": "Paper",
-        "count": 4
-    },
-    {
-        "tag": "Paper-Drawings",
-        "count": 121
-    },
-    {
-        "tag": "Paper-Paintings",
-        "count": 10
-    },
-    {
-        "tag": "Paper-Photographs",
-        "count": 31
-    },
-    {
-        "tag": "Parchment",
-        "count": 8
-    },
-    {
-        "tag": "Photographs",
-        "count": 62
-    },
-    {
-        "tag": "Plaster",
-        "count": 1
-    },
-    {
-        "tag": "Plaster-Reproductions",
-        "count": 6
-    },
-    {
-        "tag": "Shell-Containers",
-        "count": 2
-    },
-    {
-        "tag": "Shell-Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Shell-Costumes|Shell-Ornaments",
-        "count": 1
-    },
-    {
-        "tag": "Shell-Implements",
-        "count": 11
-    },
-    {
-        "tag": "Shell-Musical Instruments",
-        "count": 2
-    },
-    {
-        "tag": "Shell-Ornaments",
-        "count": 93
-    },
-    {
-        "tag": "Shell-Ornaments|Jewelry|Natural Substances",
-        "count": 1
-    },
-    {
-        "tag": "Shell-Sculpture",
-        "count": 7
-    },
-    {
-        "tag": "Stone",
-        "count": 1
-    },
-    {
-        "tag": "Stone Sculpture",
-        "count": 6
-    },
-    {
-        "tag": "Stone-Containers",
-        "count": 64
-    },
-    {
-        "tag": "Stone-Implements",
-        "count": 412
-    },
-    {
-        "tag": "Stone-Implements|Jade",
-        "count": 1
-    },
-    {
-        "tag": "Stone-Musical Instruments",
-        "count": 1
-    },
-    {
-        "tag": "Stone-Ornaments",
-        "count": 167
-    },
-    {
-        "tag": "Stone-Ornaments|Jade",
-        "count": 33
-    },
-    {
-        "tag": "Stone-Paintings",
-        "count": 2
-    },
-    {
-        "tag": "Stone-Sculpture",
-        "count": 420
-    },
-    {
-        "tag": "Stone-Sculpture|Jade",
-        "count": 3
-    },
-    {
-        "tag": "Stone-Sculpture|tablets and plaques",
-        "count": 1
-    },
-    {
-        "tag": "Stone-Vessels",
-        "count": 3
-    },
-    {
-        "tag": "Textiles",
-        "count": 154
-    },
-    {
-        "tag": "Textiles-Beadwork",
-        "count": 93
-    },
-    {
-        "tag": "Textiles-Beadwork|Textiles-Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Textiles-Costumes",
-        "count": 186
-    },
-    {
-        "tag": "Textiles-Costumes-Accessories",
-        "count": 23
-    },
-    {
-        "tag": "Textiles-Costumes|Textiles-Beadwork",
-        "count": 1
-    },
-    {
-        "tag": "Textiles-Costumes|Textiles-Dyed and Embroidered",
-        "count": 1
-    },
-    {
-        "tag": "Textiles-Dyed",
-        "count": 4
-    },
-    {
-        "tag": "Textiles-Featherwork",
-        "count": 108
-    },
-    {
-        "tag": "Textiles-Implements",
-        "count": 116
-    },
-    {
-        "tag": "Textiles-Non-Woven",
-        "count": 13
-    },
-    {
-        "tag": "Textiles-Ornaments",
-        "count": 4
-    },
-    {
-        "tag": "Textiles-Sculpture",
-        "count": 13
-    },
-    {
-        "tag": "Textiles-Trimmings",
-        "count": 1
-    },
-    {
-        "tag": "Textiles-Woven",
-        "count": 1261
-    },
-    {
-        "tag": "Textiles-Woven-Brocade",
-        "count": 2
-    },
-    {
-        "tag": "Textiles-Woven|Textiles-Costumes",
-        "count": 1
-    },
-    {
-        "tag": "Wax-Sculpture",
-        "count": 2
-    },
-    {
-        "tag": "Wood",
-        "count": 6
-    },
-    {
-        "tag": "Wood-Architectural",
-        "count": 61
-    },
-    {
-        "tag": "Wood-Containers",
-        "count": 192
-    },
-    {
-        "tag": "Wood-Costumes",
-        "count": 10
-    },
-    {
-        "tag": "Wood-Furniture",
-        "count": 95
-    },
-    {
-        "tag": "Wood-Implements",
-        "count": 660
-    },
-    {
-        "tag": "Wood-Musical Instruments",
-        "count": 174
-    },
-    {
-        "tag": "Wood-Musical Instruments|Membranophone-single-headed / biconical drum",
-        "count": 2
-    },
-    {
-        "tag": "Wood-Ornaments",
-        "count": 33
-    },
-    {
-        "tag": "Wood-Paintings",
-        "count": 6
-    },
-    {
-        "tag": "Wood-Reliefs",
-        "count": 1
     },
     {
         "tag": "Wood-Sculpture",
         "count": 1572
     },
     {
-        "tag": "Wood-Sculpture|Jewelry",
-        "count": 1
+        "tag": "Textiles-Woven",
+        "count": 1261
     },
     {
-        "tag": "Wood-Sculpture|Wood-Architectural",
-        "count": 1
+        "tag": "Ceramics-Containers",
+        "count": 1098
+    },
+    {
+        "tag": "Wood-Implements",
+        "count": 660
+    },
+    {
+        "tag": "Stone-Sculpture",
+        "count": 420
+    },
+    {
+        "tag": "Stone-Implements",
+        "count": 412
+    },
+    {
+        "tag": "Metal-Implements",
+        "count": 368
+    },
+    {
+        "tag": "Bark-Paintings",
+        "count": 344
+    },
+    {
+        "tag": "Ceramics-Sculpture",
+        "count": 312
+    },
+    {
+        "tag": "Ceramics-Implements",
+        "count": 229
+    },
+    {
+        "tag": "Metal-Sculpture",
+        "count": 211
+    },
+    {
+        "tag": "Wood-Containers",
+        "count": 192
+    },
+    {
+        "tag": "Textiles-Costumes",
+        "count": 186
+    },
+    {
+        "tag": "Wood-Musical Instruments",
+        "count": 174
+    },
+    {
+        "tag": "Stone-Ornaments",
+        "count": 167
+    },
+    {
+        "tag": "Textiles",
+        "count": 154
+    },
+    {
+        "tag": "Bone/Ivory-Sculpture",
+        "count": 154
+    },
+    {
+        "tag": "Metal-Containers",
+        "count": 147
+    },
+    {
+        "tag": "Beads-Ornaments",
+        "count": 132
+    },
+    {
+        "tag": "Paper-Drawings",
+        "count": 121
+    },
+    {
+        "tag": "Textiles-Implements",
+        "count": 116
+    },
+    {
+        "tag": "Bone/Ivory-Implements",
+        "count": 114
+    },
+    {
+        "tag": "Textiles-Featherwork",
+        "count": 108
+    },
+    {
+        "tag": "Wood-Furniture",
+        "count": 95
+    },
+    {
+        "tag": "Textiles-Beadwork",
+        "count": 93
+    },
+    {
+        "tag": "Shell-Ornaments",
+        "count": 93
+    },
+    {
+        "tag": "Beads-Costumes",
+        "count": 80
+    },
+    {
+        "tag": "Bone/Ivory-Ornaments",
+        "count": 71
+    },
+    {
+        "tag": "Basketry-Containers",
+        "count": 70
+    },
+    {
+        "tag": "Barkcloth",
+        "count": 65
+    },
+    {
+        "tag": "Stone-Containers",
+        "count": 64
+    },
+    {
+        "tag": "Photographs",
+        "count": 62
+    },
+    {
+        "tag": "Wood-Architectural",
+        "count": 61
+    },
+    {
+        "tag": "Basketry-Sculpture",
+        "count": 55
+    },
+    {
+        "tag": "Metal-Musical Instruments",
+        "count": 50
+    },
+    {
+        "tag": "Glass-Ornaments",
+        "count": 48
+    },
+    {
+        "tag": "Ceramics-Musical Instruments",
+        "count": 38
+    },
+    {
+        "tag": "Ceramics-Vessels",
+        "count": 38
+    },
+    {
+        "tag": "Wood-Ornaments",
+        "count": 33
+    },
+    {
+        "tag": "Stone-Ornaments|Jade",
+        "count": 33
+    },
+    {
+        "tag": "Paper-Photographs",
+        "count": 31
+    },
+    {
+        "tag": "Basketry-Costumes",
+        "count": 29
+    },
+    {
+        "tag": "Feathers-Ornaments",
+        "count": 26
+    },
+    {
+        "tag": "Hide-Costumes",
+        "count": 25
+    },
+    {
+        "tag": "Textiles-Costumes-Accessories",
+        "count": 23
+    },
+    {
+        "tag": "Negatives|Glass",
+        "count": 21
+    },
+    {
+        "tag": "Drawings|Paper",
+        "count": 20
+    },
+    {
+        "tag": "Basketry-Ornaments",
+        "count": 20
+    },
+    {
+        "tag": "Feathers-Costumes",
+        "count": 19
+    },
+    {
+        "tag": "Basketry-Ornaments|Jewelry",
+        "count": 19
+    },
+    {
+        "tag": "Bone/Ivory-Musical Instruments",
+        "count": 18
+    },
+    {
+        "tag": "Bone/Ivory-Containers",
+        "count": 18
+    },
+    {
+        "tag": "Bark-Sculpture",
+        "count": 17
+    },
+    {
+        "tag": "Gourd-Containers",
+        "count": 15
+    },
+    {
+        "tag": "Basketry-Implements",
+        "count": 14
+    },
+    {
+        "tag": "Textiles-Non-Woven",
+        "count": 13
+    },
+    {
+        "tag": "Textiles-Sculpture",
+        "count": 13
+    },
+    {
+        "tag": "Gourd-Sculpture",
+        "count": 12
+    },
+    {
+        "tag": "Bark-Containers",
+        "count": 12
+    },
+    {
+        "tag": "(not assigned)",
+        "count": 12
+    },
+    {
+        "tag": "Hide-Sculpture",
+        "count": 11
+    },
+    {
+        "tag": "Shell-Implements",
+        "count": 11
+    },
+    {
+        "tag": "Beads-Containers",
+        "count": 11
+    },
+    {
+        "tag": "Wood-Costumes",
+        "count": 10
+    },
+    {
+        "tag": "Paper-Paintings",
+        "count": 10
+    },
+    {
+        "tag": "Ceramics-Ornaments",
+        "count": 10
+    },
+    {
+        "tag": "Gourd-Implements",
+        "count": 9
+    },
+    {
+        "tag": "Hide-Containers",
+        "count": 9
+    },
+    {
+        "tag": "Glass-Implements",
+        "count": 8
+    },
+    {
+        "tag": "Parchment",
+        "count": 8
+    },
+    {
+        "tag": "Negatives",
+        "count": 7
+    },
+    {
+        "tag": "Shell-Sculpture",
+        "count": 7
+    },
+    {
+        "tag": "Barkcloth|Paintings",
+        "count": 7
+    },
+    {
+        "tag": "Bark-Ornaments",
+        "count": 7
+    },
+    {
+        "tag": "Beads-Containers|Hide-Costumes",
+        "count": 7
+    },
+    {
+        "tag": "Plaster-Reproductions",
+        "count": 6
+    },
+    {
+        "tag": "Wood",
+        "count": 6
+    },
+    {
+        "tag": "Wood-Paintings",
+        "count": 6
+    },
+    {
+        "tag": "Metalwork-Gold|Sculpture-Sheet metal",
+        "count": 6
+    },
+    {
+        "tag": "Stone Sculpture",
+        "count": 6
+    },
+    {
+        "tag": "Hide-Documents",
+        "count": 4
+    },
+    {
+        "tag": "Beads-Costumes|Hide-Costumes",
+        "count": 4
+    },
+    {
+        "tag": "Glass|Negatives",
+        "count": 4
+    },
+    {
+        "tag": "Main dress",
+        "count": 4
+    },
+    {
+        "tag": "Beads-Sculpture",
+        "count": 4
+    },
+    {
+        "tag": "Textiles-Ornaments",
+        "count": 4
+    },
+    {
+        "tag": "Textiles-Dyed",
+        "count": 4
+    },
+    {
+        "tag": "Paper",
+        "count": 4
+    },
+    {
+        "tag": "Hide-Implements",
+        "count": 3
     },
     {
         "tag": "Wood-Vessels",
         "count": 3
     },
     {
-        "tag": "Woodwork-Architectural",
-        "count": 1
+        "tag": "Metalwork-Ornaments",
+        "count": 3
     },
     {
-        "tag": "Woodwork-Furniture",
-        "count": 1
+        "tag": "Feathers-Containers",
+        "count": 3
     },
     {
-        "tag": "Woodwork-Miscellany",
-        "count": 1
+        "tag": "Stone-Sculpture|Jade",
+        "count": 3
+    },
+    {
+        "tag": "Stone-Vessels",
+        "count": 3
+    },
+    {
+        "tag": "Stone-Paintings",
+        "count": 2
+    },
+    {
+        "tag": "Wood-Musical Instruments|Membranophone-single-headed / biconical drum",
+        "count": 2
+    },
+    {
+        "tag": "Textiles-Woven-Brocade",
+        "count": 2
+    },
+    {
+        "tag": "Basketry",
+        "count": 2
+    },
+    {
+        "tag": "Wax-Sculpture",
+        "count": 2
     }
 ]
