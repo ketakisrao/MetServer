@@ -60,7 +60,7 @@
         "count": 905
     },
     {
-        "tag": "Ceramics-Porcelain-Export",
+        "tag": "Ceramics-Porcelain",
         "count": 789
     },
     {
@@ -88,7 +88,7 @@
         "count": 396
     },
     {
-        "tag": "Medals and Plaquettes-Reproductions",
+        "tag": "Medals and Plaquettes",
         "count": 395
     },
     {
@@ -124,7 +124,7 @@
         "count": 241
     },
     {
-        "tag": "Metalwork-Silver In Combination",
+        "tag": "Metalwork-Silver",
         "count": 227
     },
     {
@@ -148,7 +148,7 @@
         "count": 180
     },
     {
-        "tag": "Metalwork-Gold and Platinum|Jewelry",
+        "tag": "Metalwork-Gold and Platinum",
         "count": 170
     },
     {
@@ -196,7 +196,7 @@
         "count": 76
     },
     {
-        "tag": "Textiles-Woven|Textiles-Ecclesiastical",
+        "tag": "Textiles-Woven",
         "count": 73
     },
     {
@@ -244,7 +244,7 @@
         "count": 29
     },
     {
-        "tag": "Woodwork-Furniture|Textiles-Tapestries",
+        "tag": "Textiles-Tapestries",
         "count": 29
     },
     {
@@ -264,7 +264,7 @@
         "count": 24
     },
     {
-        "tag": "Pastels & Oil Sketches on Paper",
+        "tag": "Pastels & Oil Sketches",
         "count": 20
     },
     {
@@ -280,7 +280,7 @@
         "count": 16
     },
     {
-        "tag": "Textiles-Trimmings-Passementerie",
+        "tag": "Textiles-Passementerie",
         "count": 14
     },
     {
@@ -288,7 +288,7 @@
         "count": 14
     },
     {
-        "tag": "Textiles-Costumes-Accessories",
+        "tag": "Textiles-Costumes",
         "count": 14
     },
     {
@@ -299,104 +299,5 @@
         "tag": "Textiles-Painted and Printed",
         "count": 11
     },
-    {
-        "tag": "Textiles-Velvets",
-        "count": 11
-    },
-    {
-        "tag": "Textiles-Embroidered|Textiles-Laces",
-        "count": 11
-    },
-    {
-        "tag": "Scientific Instruments (Barometers & Thermometers)",
-        "count": 10
-    },
-    {
-        "tag": "Textiles-Painted and Dyed",
-        "count": 9
-    },
-    {
-        "tag": "Papier Mâché",
-        "count": 8
-    },
-    {
-        "tag": "Textiles-Laces|Textiles-Embroidered",
-        "count": 8
-    },
-    {
-        "tag": "Books and book bindings",
-        "count": 7
-    },
-    {
-        "tag": "Postage Stamps|Prints",
-        "count": 6
-    },
-    {
-        "tag": "Chess Sets-Reproductions|Metalwork-Electrotype",
-        "count": 6
-    },
-    {
-        "tag": "Woodwork-Furniture|Paintings",
-        "count": 5
-    },
-    {
-        "tag": "Textiles-Laces|Textiles-Ecclesiastical",
-        "count": 5
-    },
-    {
-        "tag": "Wallpaper",
-        "count": 5
-    },
-    {
-        "tag": "(not assigned)",
-        "count": 4
-    },
-    {
-        "tag": "Sculpture-Architectural",
-        "count": 4
-    },
-    {
-        "tag": "Textiles-Embroidered and Woven",
-        "count": 4
-    },
-    {
-        "tag": "Textiles-Woven|Textiles-Embroidered",
-        "count": 4
-    },
-    {
-        "tag": "Jewelry|Metalwork-Gold and Platinum",
-        "count": 3
-    },
-    {
-        "tag": "Textiles-Rugs|Textiles-Embroidered",
-        "count": 3
-    },
-    {
-        "tag": "Textiles-Tapestries|Textiles-Ecclesiastical",
-        "count": 3
-    },
-    {
-        "tag": "Painted Canvases",
-        "count": 3
-    },
-    {
-        "tag": "Paintings-Decorative|Woodwork",
-        "count": 3
-    },
-    {
-        "tag": "Textiles-Painted|Textiles-Reproductions",
-        "count": 3
-    },
-    {
-        "tag": "Textiles-Velvets|Textiles-Embroidered|Textiles-Ecclesiastical",
-        "count": 3
-    },
-    {
-        "tag": "Metalwork-Iron",
-        "count": 3
-    },
-    {
-        "tag": "Metalwork-Silver In Combination|Paintings",
-        "count": 2
-    }
+
 ]
