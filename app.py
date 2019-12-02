@@ -89,4 +89,4 @@ def classification():
   return {"result": data}
 
 if __name__ == '__main__':
-    my_awesome_app.run()
+    my_awesome_app.run(debug=True)
