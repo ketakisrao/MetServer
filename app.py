@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, abort, current_app
+from flask import Flask, request, jsonify, abort, current_app, response
 import pandas as pd
 import csv
 import json
@@ -27,7 +27,11 @@ def timeline():
     for row in reader:
       data["results"].append(row)
 
-  return jsonify(data)
+
+  resp = make_response(jsonify(data))
+  resp.headers['Access-Control-Allow-Origin'] = '*'
+
+  return resp
 
 # Returns all country counts
 @my_awesome_app.route('/country-counts')
@@ -39,7 +43,10 @@ def countryCounts():
     for row in reader:
       data["results"].append(row)
 
-  return jsonify(data)
+  resp = make_response(jsonify(data))
+  resp.headers['Access-Control-Allow-Origin'] = '*'
+
+  return resp
 
 # Returns counts of num artworks per distinct date
 # for an artist
@@ -58,7 +65,10 @@ def timelineDates():
 
   data = new_df.to_dict()
 
-  return jsonify(data)
+  resp = make_response(jsonify(data))
+  resp.headers['Access-Control-Allow-Origin'] = '*'
+
+  return resp
 
 @my_awesome_app.route('/counts-by-date')
 def countsByDate():
@@ -71,7 +81,11 @@ def countsByDate():
   SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
   json_url = os.path.join(SITE_ROOT, "data/spiral", dynasty+"-result.json")
   data = json.load(open(json_url))
-  return data
+  resp = make_response(data)
+  resp.headers['Access-Control-Allow-Origin'] = '*'
+
+  return resp
+#   return data
 
 @my_awesome_app.route('/classification')
 def classification():
@@ -86,7 +100,12 @@ def classification():
   
   json_url = os.path.join(SITE_ROOT, "data/classification", class_groups[id-1] + ".json")
   data = json.load(open(json_url))
-  return {"result": data}
+
+  resp = make_response({"result": data})
+  resp.headers['Access-Control-Allow-Origin'] = '*'
+
+  return resp
+#   return {"result": data}
 
 if __name__ == '__main__':
     my_awesome_app.run(debug=True)
