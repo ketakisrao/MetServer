@@ -3,7 +3,7 @@ Flask==1.1.1
 itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
-numpy==1.16.5
+numpy==1.22.0
 pandas==0.24.2
 pyOpenSSL==19.0.0
 python-dateutil==2.8.1
